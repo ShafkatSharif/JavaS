@@ -1,6 +1,7 @@
 package Test;
-import java.sql.SQLOutput;
+
 import java.util.Scanner;
+
 class Employee{
  private double bonus , salary , fine;
  Employee(){}
