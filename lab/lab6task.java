@@ -32,10 +32,8 @@ multiplication and division methods. Print calling object after each method call
 
 
 package labmannualsol;
-import org.w3c.dom.ls.LSOutput;
-
-import java.sql.SQLOutput;
 import java.util.*;
+
 class Fraction{
         private int numerator, denominator;
         Fraction(){}
